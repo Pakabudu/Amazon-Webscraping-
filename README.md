@@ -1,6 +1,6 @@
 # Amazon-Webscraping-
 
-#Libraries-
+**Libraries**
 
 BeautifulSoup
 
@@ -16,7 +16,7 @@ smtplib
 
 csv
 
-#Description-
+**Description**
 
 This project retrieves the name and price of an item from Amazon using Beautiful Soup.
 
